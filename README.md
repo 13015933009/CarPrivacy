@@ -15,7 +15,7 @@
 當你透過社交網路進行分享時，可能會要求輸入帳號密碼，但該資訊由iOS的系統管理，應用程序不會以任何形式儲存帳號密碼，也不會收集及以任何形式儲存您在社交網路上的任何個人資訊。
 隱私政策條款
 使用本應用即表示您同意此隱私政策的條款和條件。如果您不同意本政策，請不要使用該應用程序。我們保留權利，在我們决定更改，修改，新增或删除本政策的部分，在任何時候請定期瀏覽此網頁查閱任何修改。如果您繼續使用我們的App App以後的任何更改這些條款的發佈將意味著你已經接受了這些調整。
-連線信箱：simplismvip@163.com
+連線信箱：nsyd5x@163.com
 
 Privacy Policy
 We do not collect and store any information or sales from your social network to advertisements or other operating organizations in any form.
@@ -25,4 +25,4 @@ When you share through the social network, you may be asked to enter the account
 
 Privacy Policy Terms
 By using this application, you agree to the terms and conditions of this Privacy Policy. If you do not agree with this policy, please do not use the application. We reserve the right, at any time, please visit this page regularly to review any changes in our decision to change, modify, add or remove this policy. If you continue to use any of our App App changes later, the release of these terms will mean that you have accepted these adjustments.
-Connection mailbox: simplismvip@163.com
+Connection mailbox: nsyd5x@163.com
